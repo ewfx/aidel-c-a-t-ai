@@ -98,6 +98,6 @@ Utilizes Generative AI to provide a transparent justification for each risk scor
 ## 👥 Team
 - **Soumyajit Rudra Sarma** - [GitHub](https://github.com/SOUMYAJITRUDRASARMA) | [LinkedIn](https://www.linkedin.com/in/soumyajit-rudra-sarma-150672237)
 - **Adil A** - [GitHub](#) | [LinkedIn](#)
-- **Kushal Das** - [GitHub](#) | [LinkedIn](#)
+- **Kushal Das** - [GitHub](https://github.com/das-kushal) | [LinkedIn](https://www.linkedin.com/in/kushal-das-3936b3211/)
 - **Rashmi Deshmuk** - [GitHub](#) | [LinkedIn](#)
 - **Dhwanil M Shah** - [GitHub](https://github.com/dhwanilms) | [LinkedIn](https://www.linkedin.com/in/dhwanilms/)
