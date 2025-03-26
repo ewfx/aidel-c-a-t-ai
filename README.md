@@ -50,11 +50,14 @@ Describe the major technical or non-technical challenges your team encountered.
    ```
 
 ## 🏗️ Tech Stack
-- 🔹 Frontend: React / Vue / Angular / HTML
-- 🔹 Backend: Node.js / FastAPI / Django
-- 🔹 Database: PostgreSQL / Firebase
+- 🔹 Frontend: HTML CSS JS with View Model (MVC)
+- 🔹 Backend: Django
+- 🔹 API: Wikipedia , News API
 - 🔹 Other: OpenAI API / Twilio / Stripe
 
 ## 👥 Team
-- **Your Name** - [GitHub](#) | [LinkedIn](#)
-- **Teammate 2** - [GitHub](#) | [LinkedIn](#)
+- **Soumyajit Rudra Sarma** - [GitHub](https://github.com/SOUMYAJITRUDRASARMA) | [LinkedIn](https://www.linkedin.com/in/soumyajit-rudra-sarma-150672237)
+- **Adil A** - [GitHub](#) | [LinkedIn](#)
+- **Kushal Das** - [GitHub](#) | [LinkedIn](#)
+- **Rashmi Deshmuk** - [GitHub](#) | [LinkedIn](#)
+- **Dhwanil M Shah** - [GitHub](#) | [LinkedIn](#)
