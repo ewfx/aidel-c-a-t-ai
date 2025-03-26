@@ -1,0 +1,566 @@
+Transaction ID: TXN-2023-1A2B
+Date: 2023-06-10
+09:45:00
+Sender:
+Name: "Transstroy India"
+Account: IBAN DE89 3704 0044 0532 0130 00 (Germany)
+Address: Friedrichstraße 123, Berlin, Germany
+Notes: "Software licensing fees"
+Receiver:
+Name: "Gamma Innovations Inc."
+Account: 123456789 (Bank of America, US)
+Address: 100 Main Street, San Francisco, CA, USA
+Tax ID: US-67890
+Amount: $150,000.00 (USD)
+Currency Exchange: N/A
+Transaction Type: Wire Transfer
+Reference: "License Renewal #LI-2023-0610"
+Additional Notes:
+"Legitimate B2B payment for software renewal."
+"Confirmed by CFO, verified invoice attached."
+Sender IP: 203.0.113.15
+
+---
+
+Transaction ID: TXN-2023-3F7Z
+Date: 2023-07-22
+16:30:00
+Sender:
+Name: "Sunrise International Trading"
+Account: IBAN SG58 0210 0001 2003 4567 89 (Singapore)
+Address: Raffles Place 12, Singapore
+Notes: "Import duty clearance fee"
+Receiver:
+Name: "Offshore Holdings Ltd"
+Account: 876543210 (Cayman National Bank, KY)
+Address: P.O. Box 5678, George Town, Cayman Islands
+Tax ID: KY-98765
+Amount: $97,600.00 (USD)
+Currency Exchange: N/A
+Transaction Type: Wire Transfer
+Reference: "Customs Fee Ref #CU-2023-0722"
+Additional Notes:
+"Urgent request, no supporting documents provided."
+"Company has no registered business activity matching customs transactions."
+Sender IP: 185.220.101.5 (VPN detected: ExpressVPN, exit node in Seychelles)
+
+---
+
+Transaction ID: TXN-2023-9K8P
+Date: 2023-09-05
+11:15:00
+Sender:
+Name: "Blue Ridge Pharmaceuticals"
+Account: IBAN US98 1234 5678 9012 3456 78 (JP Morgan Chase, US)
+Address: 400 Health St, New York, USA
+Notes: "Clinical trial research funding"
+Receiver:
+Name: "Genomics Research Labs"
+Account: 567890123 (HSBC, UK)
+Address: 5 Science Park Drive, London, UK
+Tax ID: UK-45632
+Amount: $75,000.00 (USD)
+Currency Exchange: N/A
+Transaction Type: Wire Transfer
+Reference: "Research Grant #RG-2023-0905"
+Additional Notes:
+"Funds released per contract clause."
+"Legitimate grant for verified research project."
+Sender IP: 198.51.100.22
+
+---
+
+Transaction ID: TXN-2023-4G5X
+Date: 2023-10-12
+22:10:00
+Sender:
+Name: "Global Synergy Capital"
+Account: IBAN AE47 4000 1234 5678 9012 34 (Emirates NBD, UAE)
+Address: Sheikh Zayed Rd, Dubai, UAE
+Notes: "Private investment transfer"
+Receiver:
+Name: "Horizon Equity Ventures"
+Account: 234567890 (First Caribbean Bank, BVI)
+Address: P.O. Box 7890, Road Town, British Virgin Islands
+Tax ID: BVI-45678
+Amount: $450,000.00 (USD)
+Currency Exchange: N/A
+Transaction Type: Wire Transfer
+Reference: "Capital Injection #CI-2023-1012"
+Additional Notes:
+"No legal ownership ties between sender and receiver."
+"Company established only one month before transaction."
+Sender IP: 103.21.244.9 (VPN detected: Surfshark, exit node in Indonesia)
+
+---
+
+Transaction ID: TXN-2023-2L9V
+Date: 2023-11-18
+14:05:00
+Sender:
+Name: "Emerald Green Ventures"
+Account: IBAN CA12 3456 7890 1234 5678 90 (Royal Bank of Canada, CA)
+Address: Bay Street 250, Toronto, Canada
+Notes: "Environmental grant funding"
+Receiver:
+Name: "EcoFuture Initiatives"
+Account: 789012345 (BNP Paribas, France)
+Address: 20 Rue Lafayette, Paris, France
+Tax ID: FR-56789
+Amount: $62,500.00 (USD)
+Currency Exchange: N/A
+Transaction Type: Wire Transfer
+Reference: "Sustainability Project Grant #SP-2023-1118"
+Additional Notes:
+"Government-approved grant, verified nonprofit status."
+"Legitimate funding for green energy research."
+Sender IP: 24.85.157.90
+
+---
+
+Transaction ID: TXN-2023-1A2B
+Date: 2023-06-10
+09:45:00
+Sender:
+Name: "Elite Tech Solutions Ltd"
+Account: IBAN DE89 3704 0044 0532 0130 00 (Germany)
+Address: Friedrichstraße 123, Berlin, Germany
+Notes: "Software licensing fees"
+Receiver:
+Name: "Gamma Innovations Inc."
+Account: 123456789 (Bank of America, US)
+Address: 100 Main Street, San Francisco, CA, USA
+Tax ID: US-67890
+Amount: $150,000.00 (USD)
+Currency Exchange: N/A
+Transaction Type: Wire Transfer
+Reference: "License Renewal #LI-2023-0610"
+Additional Notes:
+"Legitimate B2B payment for software renewal."
+"Confirmed by CFO, verified invoice attached."
+Sender IP: 203.0.113.15
+
+---
+
+Transaction ID: TXN-2023-3F7Z
+Date: 2023-07-22
+16:30:00
+Sender:
+Name: "Sunrise International Trading"
+Account: IBAN SG58 0210 0001 2003 4567 89 (Singapore)
+Address: Raffles Place 12, Singapore
+Notes: "Import duty clearance fee"
+Receiver:
+Name: "Offshore Holdings Ltd"
+Account: 876543210 (Cayman National Bank, KY)
+Address: P.O. Box 5678, George Town, Cayman Islands
+Tax ID: KY-98765
+Amount: $97,600.00 (USD)
+Currency Exchange: N/A
+Transaction Type: Wire Transfer
+Reference: "Customs Fee Ref #CU-2023-0722"
+Additional Notes:
+"Urgent request, no supporting documents provided."
+"Company has no registered business activity matching customs transactions."
+Sender IP: 185.220.101.5 (VPN detected: ExpressVPN, exit node in Seychelles)
+
+---
+
+Transaction ID: TXN-2023-9K8P
+Date: 2023-09-05
+11:15:00
+Sender:
+Name: "Blue Ridge Pharmaceuticals"
+Account: IBAN US98 1234 5678 9012 3456 78 (JP Morgan Chase, US)
+Address: 400 Health St, New York, USA
+Notes: "Clinical trial research funding"
+Receiver:
+Name: "Genomics Research Labs"
+Account: 567890123 (HSBC, UK)
+Address: 5 Science Park Drive, London, UK
+Tax ID: UK-45632
+Amount: $75,000.00 (USD)
+Currency Exchange: N/A
+Transaction Type: Wire Transfer
+Reference: "Research Grant #RG-2023-0905"
+Additional Notes:
+"Funds released per contract clause."
+"Legitimate grant for verified research project."
+Sender IP: 198.51.100.22
+
+---
+
+Transaction ID: TXN-2023-4G5X
+Date: 2023-10-12
+22:10:00
+Sender:
+Name: "Global Synergy Capital"
+Account: IBAN AE47 4000 1234 5678 9012 34 (Emirates NBD, UAE)
+Address: Sheikh Zayed Rd, Dubai, UAE
+Notes: "Private investment transfer"
+Receiver:
+Name: "Horizon Equity Ventures"
+Account: 234567890 (First Caribbean Bank, BVI)
+Address: P.O. Box 7890, Road Town, British Virgin Islands
+Tax ID: BVI-45678
+Amount: $450,000.00 (USD)
+Currency Exchange: N/A
+Transaction Type: Wire Transfer
+Reference: "Capital Injection #CI-2023-1012"
+Additional Notes:
+"No legal ownership ties between sender and receiver."
+"Company established only one month before transaction."
+Sender IP: 103.21.244.9 (VPN detected: Surfshark, exit node in Indonesia)
+
+---
+
+Transaction ID: TXN-2023-2L9V
+Date: 2023-11-18
+14:05:00
+Sender:
+Name: "Emerald Green Ventures"
+Account: IBAN CA12 3456 7890 1234 5678 90 (Royal Bank of Canada, CA)
+Address: Bay Street 250, Toronto, Canada
+Notes: "Environmental grant funding"
+Receiver:
+Name: "EcoFuture Initiatives"
+Account: 789012345 (BNP Paribas, France)
+Address: 20 Rue Lafayette, Paris, France
+Tax ID: FR-56789
+Amount: $62,500.00 (USD)
+Currency Exchange: N/A
+Transaction Type: Wire Transfer
+Reference: "Sustainability Project Grant #SP-2023-1118"
+Additional Notes:
+"Government-approved grant, verified nonprofit status."
+"Legitimate funding for green energy research."
+Sender IP: 24.85.157.90
+
+---
+
+Transaction ID: TXN-2023-6Y2M
+Date: 2023-05-30
+10:10:00
+Sender:
+Name: "Summit Financial Group"
+Account: IBAN HK77 1020 5678 9012 3456 78 (HSBC, Hong Kong)
+Address: 88 Des Voeux Rd, Central, Hong Kong
+Notes: "Investment advisory fee"
+Receiver:
+Name: "Infinity Consulting Ltd"
+Account: 543219876 (Cayman National Bank, KY)
+Address: P.O. Box 4321, George Town, Cayman Islands
+Tax ID: KY-32145
+Amount: $130,000.00 (USD)
+Currency Exchange: N/A
+Transaction Type: Wire Transfer
+Reference: "Consulting Fee Ref #CF-2023-0530"
+Additional Notes:
+"Shell company with no physical presence detected."
+"Beneficiary listed in offshore leaks database."
+Sender IP: 185.199.108.153 (VPN detected: NordVPN, exit node in Costa Rica)
+
+---
+
+Transaction ID: TXN-2023-7N4X
+Date: 2023-12-22
+18:45:00
+Sender:
+Name: "Redwood Engineering LLC"
+Account: IBAN US99 9876 5432 1098 7654 32 (Wells Fargo, US)
+Address: 200 Industrial Way, Austin, TX, USA
+Notes: "Equipment purchase payment"
+Receiver:
+Name: "SteelWorks Manufacturing Ltd."
+Account: 654321098 (Deutsche Bank, Germany)
+Address: Siemensstraße 5, Munich, Germany
+Tax ID: DE-98761
+Amount: $210,000.00 (USD)
+Currency Exchange: N/A
+Transaction Type: Wire Transfer
+Reference: "Purchase Order #PO-2023-1222"
+Additional Notes:
+"Legitimate equipment purchase, contract verified."
+"Invoice provided, cleared by internal audit."
+Sender IP: 192.88.99.12
+
+---
+
+Transaction ID: TXN-2023-8F3J
+Date: 2023-04-07
+12:35:00
+Sender:
+Name: "Omega Crypto Holdings"
+Account: IBAN EE38 2200 0111 2222 3333 44 (LHV Bank, Estonia)
+Address: Tartu mnt 2, Tallinn, Estonia
+Notes: "Digital asset liquidation"
+Receiver:
+Name: "X-Change Finance"
+Account: 987612345 (Binance, Malta)
+Address: Blockchain Hub, Valletta, Malta
+Tax ID: MT-67890
+Amount: $500,000.00 (USDT)
+Currency Exchange: USDT to BTC
+Transaction Type: Crypto Exchange
+Reference: "Crypto Trade #CT-2023-0407"
+Additional Notes:
+"Unverified beneficiary address linked to darknet transactions."
+"Transaction executed with minimal KYC verification."
+Sender IP: 45.76.89.213 (VPN detected: Private Internet Access, exit node in Russia)
+
+---
+
+Transaction ID: TXN-2023-9H5W
+Date: 2023-03-14
+21:20:00
+Sender:
+Name: "Solar Bright Energy Ltd."
+Account: IBAN AU45 0987 6543 2109 8765 43 (Westpac, Australia)
+Address: 50 Martin Place, Sydney, Australia
+Notes: "Solar panel project funding"
+Receiver:
+Name: "GreenTech Solutions Inc."
+Account: 876543219 (Barclays, UK)
+Address: 33 Queen Street, London, UK
+Tax ID: UK-12345
+Amount: $95,000.00 (USD)
+Currency Exchange: N/A
+Transaction Type: Wire Transfer
+Reference: "Project Funding #PF-2023-0314"
+Additional Notes:
+"Government grant verified, legal project funding."
+"Approved by renewable energy board."
+Sender IP: 203.217.44.101
+
+---
+
+Transaction ID: TXN-2023-5T8L
+Date: 2023-08-02
+13:10:00
+Sender:
+Name: "Prime Ventures Ltd."
+Account: IBAN MY77 9988 7766 5544 3322 11 (Maybank, Malaysia)
+Address: 8 Jalan Sultan, Kuala Lumpur, Malaysia
+Notes: "Private equity transfer"
+Receiver:
+Name: "Skyline Capital Management"
+Account: 112233445 (Cayman National Bank, KY)
+Address: P.O. Box 9999, George Town, Cayman Islands
+Tax ID: KY-11223
+Amount: $340,000.00 (USD)
+Currency Exchange: N/A
+Transaction Type: Wire Transfer
+Reference: "Investment Portfolio #IP-2023-0802"
+Additional Notes:
+"Shell company registered two weeks before transaction."
+"Source of funds unclear, flagged for money laundering risk."
+Sender IP: 141.98.82.123 (VPN detected: ExpressVPN, exit node in Mauritius)
+---
+
+Transaction ID: TXN-2023-10K8Z
+Date: 2023-07-12
+09:15:00
+Sender:
+Name: "Everest Logistics Ltd."
+Account: IBAN SG88 6754 3210 9876 5432 10 (DBS Bank, Singapore)
+Address: 12 Marina Boulevard, Singapore
+Notes: "Freight payment for shipment #FG12345"
+Receiver:
+Name: "Global Trade Networks Inc."
+Account: 456789012 (HSBC, Hong Kong)
+Address: 1 Queen’s Road Central, Hong Kong
+Tax ID: HK-98765
+Amount: $178,000.00 (USD)
+Currency Exchange: N/A
+Transaction Type: Wire Transfer
+Reference: "Freight Invoice #FI-2023-0712"
+
+---
+
+Transaction ID: TXN-2023-11R5W
+Date: 2023-10-09
+16:25:00
+Sender:
+Name: "SkyBridge Investment Corp."
+Account: IBAN CH66 7890 1234 5678 9012 34 (UBS, Switzerland)
+Address: Bahnhofstrasse 45, Zurich, Switzerland
+Notes: "Asset liquidation"
+Receiver:
+Name: "Omega Trust Holdings"
+Account: 789012345 (Cayman National Bank, KY)
+Address: P.O. Box 5678, George Town, Cayman Islands
+Tax ID: KY-67890
+Amount: $750,000.00 (USD)
+Currency Exchange: N/A
+Transaction Type: Wire Transfer
+Reference: "Trust Fund Disbursement #TD-2023-1009"
+Additional Notes:
+"Funds traced to multiple offshore accounts before final transfer."
+
+---
+
+Transaction ID: TXN-2023-12D6X
+Date: 2023-02-20
+14:00:00
+Sender:
+Name: "BlueWave Tech Solutions"
+Account: IBAN CA12 3456 7890 1234 5678 90 (Royal Bank of Canada)
+Address: 100 King St W, Toronto, Canada
+Notes: "Software licensing fee"
+Receiver:
+Name: "AI Innovations Ltd."
+Account: 234567890 (HSBC, UK)
+Address: 25 Bank Street, London, UK
+Tax ID: UK-45678
+Amount: $125,000.00 (USD)
+Currency Exchange: N/A
+Transaction Type: Wire Transfer
+Reference: "Licensing Payment #LP-2023-0220"
+Sender IP: 207.45.67.89
+
+---
+
+Transaction ID: TXN-2023-13V9M
+Date: 2023-06-15
+11:10:00
+Sender:
+Name: "OceanWave Trading"
+Account: IBAN AE44 5678 9012 3456 7890 12 (Emirates NBD, UAE)
+Address: Sheikh Zayed Road, Dubai, UAE
+Notes: "Oil trading settlement"
+Receiver:
+Name: "PetroCorp International"
+Account: 678901234 (Standard Chartered, Singapore)
+Address: 8 Marina View, Singapore
+Tax ID: SG-78901
+Amount: $2,500,000.00 (USD)
+Currency Exchange: N/A
+Transaction Type: Wire Transfer
+Reference: "Oil Shipment #OS-2023-0615"
+
+---
+
+Transaction ID: TXN-2023-14B7K
+Date: 2023-09-29
+08:50:00
+Sender:
+Name: "Vertex Biotech Ltd."
+Account: IBAN IN56 3456 7890 1234 5678 90 (HDFC Bank, India)
+Address: BKC Complex, Mumbai, India
+Notes: "R&D funding for Phase 3 trials"
+Receiver:
+Name: "MediLife Research Inc."
+Account: 890123456 (Bank of America, USA)
+Address: 550 Terry Ave, Seattle, WA, USA
+Tax ID: US-90123
+Amount: $1,200,000.00 (USD)
+Currency Exchange: N/A
+Transaction Type: Wire Transfer
+Reference: "Research Grant #RG-2023-0929"
+Sender IP: 49.35.98.111 (No VPN detected)
+
+---
+
+Transaction ID: TXN-2023-15J4X
+Date: 2023-11-17
+13:30:00
+Sender:
+Name: "Eagle View Construction"
+Account: IBAN AU22 7890 1234 5678 9012 34 (ANZ Bank, Australia)
+Address: 200 George Street, Sydney, Australia
+Notes: "Building materials procurement"
+Receiver:
+Name: "StoneWorks Ltd."
+Account: 567890123 (HSBC, UK)
+Address: 5 Oxford Street, London, UK
+Tax ID: UK-23456
+Amount: $85,000.00 (USD)
+Currency Exchange: N/A
+Transaction Type: Wire Transfer
+Reference: "Invoice Payment #IP-2023-1117"
+
+---
+
+Transaction ID: TXN-2023-16X8L
+Date: 2023-08-05
+19:45:00
+Sender:
+Name: "Summit Peak Consulting"
+Account: IBAN US77 5678 9012 3456 7890 12 (Chase Bank, USA)
+Address: 300 Madison Avenue, New York, USA
+Notes: "Business consulting services"
+Receiver:
+Name: "Aspire Business Solutions"
+Account: 789012345 (HSBC, Hong Kong)
+Address: 99 Nathan Road, Kowloon, Hong Kong
+Tax ID: HK-45678
+Amount: $150,000.00 (USD)
+Currency Exchange: N/A
+Transaction Type: Wire Transfer
+Reference: "Consulting Invoice #CI-2023-0805"
+Sender IP: 192.99.88.100 (VPN detected: ProtonVPN, exit node in Switzerland)
+Additional Notes:
+"Funds routed through intermediary firms before final deposit."
+
+---
+
+Transaction ID: TXN-2023-17P3W
+Date: 2023-04-14
+22:05:00
+Sender:
+Name: "Aurora Digital Ventures"
+Account: IBAN DE33 9012 3456 7890 1234 56 (Deutsche Bank, Germany)
+Address: 1 Taunusanlage, Frankfurt, Germany
+Notes: "Tech startup funding"
+Receiver:
+Name: "BrightTech Innovations Ltd."
+Account: 456789012 (Bank of Ireland, Ireland)
+Address: 40 Mespil Road, Dublin, Ireland
+Tax ID: IE-78901
+Amount: $400,000.00 (EUR)
+Currency Exchange: EUR to USD
+Transaction Type: Wire Transfer
+Reference: "Seed Funding #SF-2023-0414"
+
+---
+
+Transaction ID: TXN-2023-18M6K
+Date: 2023-05-28
+15:20:00
+Sender:
+Name: "Pioneer Shipping Ltd."
+Account: IBAN JP99 2345 6789 0123 4567 89 (Mizuho Bank, Japan)
+Address: 1 Chome, Nihonbashi, Tokyo, Japan
+Notes: "Container shipment fee"
+Receiver:
+Name: "EastTrade Logistics Inc."
+Account: 234567890 (HSBC, Hong Kong)
+Address: 88 Connaught Road, Hong Kong
+Tax ID: HK-89012
+Amount: $90,000.00 (USD)
+Currency Exchange: JPY to USD
+Transaction Type: Wire Transfer
+Reference: "Shipping Invoice #SI-2023-0528"
+
+---
+
+Transaction ID: TXN-2023-19Q7Y
+Date: 2023-01-31
+09:40:00
+Sender:
+Name: "Horizon Capital Partners"
+Account: IBAN CH44 5678 9012 3456 7890 12 (Credit Suisse, Switzerland)
+Address: Paradeplatz 8, Zurich, Switzerland
+Notes: "Wealth management transaction"
+Receiver:
+Name: "Zenith Offshore Holdings"
+Account: 789012345 (Cayman National Bank, KY)
+Address: P.O. Box 2222, George Town, Cayman Islands
+Tax ID: KY-56789
+Amount: $1,000,000.00 (USD)
+Currency Exchange: N/A
+Transaction Type: Wire Transfer
+Reference: "Investment Fund Transfer #IF-2023-0131"
+Additional Notes:
+"Company lacks clear business operations. Possible tax evasion."
+Sender IP: 203.150.111.45 (VPN detected: NordVPN, exit node in Thailand)
