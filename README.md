@@ -18,7 +18,7 @@ We are Team CAT AI, and our topic focuses on “AI-Driven Entity Intelligence Ri
 Our team comprises myself Adil, Dhwanil, Kushal, Rashmi Deshmukh, Soumyajit. Through this solution, we aim to bring cutting-edge AI techniques into the world of financial transaction risk management — transforming how entities and transactions are evaluated for potential frauds.
 
 ## 🎥 Demo
-📹 [Video Demo](#) (if applicable)  
+📹 [Video Demo](https://drive.google.com/file/d/1-2ycaHQdqZCqvuWodMJsAMptqpvjPhNs/view?usp=sharing) (if applicable)  
 🖼️ Screenshots: 
 
 ![UI Demo](https://github.com/ewfx/aidel-c-a-t-ai/blob/main/artifacts/demo/UI_1.jpg)
