@@ -78,11 +78,15 @@ Utilizes Generative AI to provide a transparent justification for each risk scor
    ```sh
    git clone https://github.com/ewfx/aidel-c-a-t-ai.git
    ```
-2. Install dependencies  
+2. Change the directory
+   ```sh
+   cd code/src/riskopedia
+   ```
+3. Install dependencies  
    ```sh
    pip install -r requirements.txt
    ```
-3. Run the project  
+4. Run the project  
    ```sh
    python manage.py makemigrations
    python manage.py migrate
