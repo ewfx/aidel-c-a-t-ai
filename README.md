@@ -69,4 +69,4 @@ We used Django for the backend and HTML Embedded View Model for the frontend. We
 - **Adil A** - [GitHub](#) | [LinkedIn](#)
 - **Kushal Das** - [GitHub](#) | [LinkedIn](#)
 - **Rashmi Deshmuk** - [GitHub](#) | [LinkedIn](#)
-- **Dhwanil M Shah** - [GitHub](#) | [LinkedIn](#)
+- **Dhwanil M Shah** - [GitHub](https://github.com/dhwanilms) | [LinkedIn](https://www.linkedin.com/in/dhwanilms/)
