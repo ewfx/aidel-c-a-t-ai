@@ -1,4 +1,4 @@
-# 🚀 Project Name
+# 🚀 RiskOPedia: AI-Driven Financial Risk Intelligence
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
