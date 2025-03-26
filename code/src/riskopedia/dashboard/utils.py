@@ -810,7 +810,7 @@ def analyze_transaction_risk(
 
 def recent_news_articles(entity):
     """Fetches recent news articles related to the given entity and creates a context summary."""
-    API_KEY = "1f1c666ad76578acaab74298ccd83a6c"
+    API_KEY = "1d3035a7be3d4a2bf48a7a48086e18f6"
     url = f"http://api.mediastack.com/v1/news?access_key={API_KEY}&keywords={entity}&countries=us,in"
 
     try:
