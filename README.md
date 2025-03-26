@@ -36,6 +36,8 @@ This method ensures a transparent, explainable, and AI-powered analysis of poten
 ## 🛠️ How We Built It
 We used Django for the backend and HTML Embedded View Model for the frontend. We used Wikipedia API, News API and OFAC Sanction List for enriching the context for the named entities ike organizations, locations, etc. Finally, we used the together API to call the Llama Gen AI Model for generating the output.
 
+![Architechture Diagram](https://github.com/ewfx/aidel-c-a-t-ai/blob/main/artifacts/arch/Architecture%20Diagram.png)
+
 ## 🚧 Challenges We Faced
 - Processing of unstructured data
 - Finding non-outdated Data Enrichment Sources
